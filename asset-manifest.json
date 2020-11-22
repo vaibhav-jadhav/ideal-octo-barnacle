@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ideal-octo-barnacle/static/css/main.d5ccc1fe.chunk.css",
+    "main.js": "/ideal-octo-barnacle/static/js/main.52d90c8c.chunk.js",
+    "main.js.map": "/ideal-octo-barnacle/static/js/main.52d90c8c.chunk.js.map",
+    "runtime-main.js": "/ideal-octo-barnacle/static/js/runtime-main.29c15da8.js",
+    "runtime-main.js.map": "/ideal-octo-barnacle/static/js/runtime-main.29c15da8.js.map",
+    "static/js/2.8d1a3f2a.chunk.js": "/ideal-octo-barnacle/static/js/2.8d1a3f2a.chunk.js",
+    "static/js/2.8d1a3f2a.chunk.js.map": "/ideal-octo-barnacle/static/js/2.8d1a3f2a.chunk.js.map",
+    "index.html": "/ideal-octo-barnacle/index.html",
+    "precache-manifest.eb626f2d9e04c5fc9a4c96209d89c30a.js": "/ideal-octo-barnacle/precache-manifest.eb626f2d9e04c5fc9a4c96209d89c30a.js",
+    "service-worker.js": "/ideal-octo-barnacle/service-worker.js",
+    "static/css/main.d5ccc1fe.chunk.css.map": "/ideal-octo-barnacle/static/css/main.d5ccc1fe.chunk.css.map",
+    "static/js/2.8d1a3f2a.chunk.js.LICENSE.txt": "/ideal-octo-barnacle/static/js/2.8d1a3f2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c15da8.js",
+    "static/js/2.8d1a3f2a.chunk.js",
+    "static/css/main.d5ccc1fe.chunk.css",
+    "static/js/main.52d90c8c.chunk.js"
+  ]
+}
